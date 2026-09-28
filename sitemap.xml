@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gregdev75.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gregdev75.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gregdev75.github.io/en/"/>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdev75.github.io/en/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gregdev75.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gregdev75.github.io/en/"/>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdev75.github.io/cacaboom/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gregdev75.github.io/cacaboom/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gregdev75.github.io/en/cacaboom/"/>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdev75.github.io/en/cacaboom/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gregdev75.github.io/cacaboom/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gregdev75.github.io/en/cacaboom/"/>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdev75.github.io/cacaboom/confidentialite/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gregdev75.github.io/cacaboom/confidentialite/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gregdev75.github.io/en/cacaboom/privacy/"/>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdev75.github.io/en/cacaboom/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gregdev75.github.io/cacaboom/confidentialite/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gregdev75.github.io/en/cacaboom/privacy/"/>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdev75.github.io/cacaboom/support/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gregdev75.github.io/cacaboom/support/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gregdev75.github.io/en/cacaboom/support/"/>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdev75.github.io/en/cacaboom/support/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gregdev75.github.io/cacaboom/support/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gregdev75.github.io/en/cacaboom/support/"/>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+</urlset>
